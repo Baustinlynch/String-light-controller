@@ -10,7 +10,7 @@ All PCB parts can be assembled by JLCPCB PCBA, but I have also selected parts th
 - One 18650 battery
 - 3D printed case parts
   - These should be fine printed in PLA, but a higher-temperature filament may be better as some switching regulators can produce more heat that PLA may not handle.
-- 4 M3 threaded inserts (full dimensions will be picked later; I haven't finished modeling it yet)
+- 4 M3 by 5mm threaded inserts 
 - 4 M3 by 8mm machine screws
 
 ### Tools
@@ -36,6 +36,8 @@ All PCB parts can be assembled by JLCPCB PCBA, but I have also selected parts th
 8. strip the wires of the string lights, by about 1 or 2 mm
 9. insert the ends of the wires into the wire terminals and use your lil screw driver to tighten them down
   - make sure that you get the polarity of the wires correct, according to the embossed polarity symbols on the top of the enclosure
+10.  mount the box onto the wall or where-ever you want it with a command strip or another similar adhesive!
+
 
 ## JST version
 
@@ -45,7 +47,7 @@ All PCB parts can be assembled by JLCPCB PCBA, but I have also selected parts th
 - One jst battery
 - 3D printed case parts
   - These should be fine printed in PLA, but a higher-temperature filament may be better as some switching regulators can produce more heat that PLA may not handle.
-- 3 M3 threaded inserts (full dimensions will be picked later; I haven't finished modeling it yet)
+- 3 M3 by 5 mm threaded inserts 
 - 3 M3 by 8 mm machine screws  
 - a non-thermal, removable adhesive for mounting the battery in the enclosure (not strictly required)
 
@@ -69,3 +71,4 @@ All PCB parts can be assembled by JLCPCB PCBA, but I have also selected parts th
 8. strip back the insulation on the battery holder by about 1-2mm
 9. insert the wires from the string light into the wire terminals and screw them into place
   - make sure that you get the polarity of the wires right !!
+10. mount the box onto the wall or where-ever you want it with a command strip or another similar adhesive!
